@@ -4,7 +4,7 @@ const header = ()=>{
     return (
         <nav>
             <div className="nav-wrapper indigo">
-            <div className="brand-logo center">Wiki-Viewer</div>
+            <a href="/" className="brand-logo center">Wiki-Viewer</a>
             </div>
         </nav>
     );
